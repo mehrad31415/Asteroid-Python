@@ -1,3 +1,3 @@
 # Asteroid-Python
 
-This is an asteroid game written in Python using th pygame library.
+This is a two-player asteroid game written in Python using th pygame library.
